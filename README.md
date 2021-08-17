@@ -15,8 +15,8 @@ npm install
 # Watch CSS & run server on :3000
 npm start
 
-# Build CSS and assets
-npm run build
+# Build CSS tailwind by creating in the root of your project craco.config.js and tailwind.config.js
+
 
 
 ### `npm test`

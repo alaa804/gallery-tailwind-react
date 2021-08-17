@@ -1,18 +1,23 @@
 # React Gallery Images - React & Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Capture d’écran 2021-08-14 165600](https://user-images.githubusercontent.com/73104268/129802098-d437fec7-5bea-4de9-a968-db57fcfaa0bc.png)
 
-## Available Scripts
+
+Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
+
+#Add your Pixabay API key to .env - https://pixabay.com/api/docs/
 
 In the project directory, you can run:
 
-### `npm start`
+# Install dependencies
+npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Watch CSS & run server on :3000
+npm start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Build CSS and assets
+npm run build
+
 
 ### `npm test`
 
